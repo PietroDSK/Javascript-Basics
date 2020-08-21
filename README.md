@@ -3,8 +3,8 @@
 <h1>What is this repository?</h1>
 <h5>This repository has made to help beginners on Javascript to understand the basics!:computer:<h5>
 <h1>Before you code, some beautiful tips<h1>
- <h5> You can use the [firacode font](https://github.com/tonsky/FiraCode) to make your code more beatiful.
-   And you can use the Dracula Theme of VSCode too.</h5>
+ <h5> 1. You can use the [firacode font](https://github.com/tonsky/FiraCode) to make your code more beatiful.<br/>
+   2. You can use the Dracula Theme of VSCode too.</h5>
 <h1>What is each folder?</h1>
 <h5>Each folder contain one tutorial of javascript.</h5>
 <h2>What is the correct way?</h2>
