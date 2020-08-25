@@ -20,10 +20,10 @@
 
 ##### 2. Data Types
 
-##### 1. Numbers And Operators
+##### 3. Numbers And Operators
 
-##### 1. Boolean And Conditionals
+##### 4. Boolean And Conditionals
 
-##### 1. Functions
+##### 5. Functions
 
-##### 1. Objects
+##### 6. Objects
