@@ -85,10 +85,12 @@ var personalData = {
 
 //Modify the value of propertie price for 3000
 var car2 = {
-  price: 3000,
+  price: 1000,
   doors: 4,
   brand: "Audi",
 };
+
+car2.price = 3000;
 
 //CREATE an object of a dog who represents a labrador,
 //black, 10 years old, who barks when he sees a man
