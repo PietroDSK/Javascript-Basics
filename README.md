@@ -10,8 +10,7 @@
 
 ##### 2. You can use the Dracula Theme of VSCode too.
 
-![Image of VsCode]
-(https://prnt.sc/u5uhp7)
+![Image of VsCode](https://prnt.sc/u5uhp7)
 
 # What is each folder?
 
