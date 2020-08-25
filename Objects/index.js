@@ -99,7 +99,7 @@ var dog = {
   color: "Black",
   age: 10,
   barksWhen(seeingAMan) {
-    if (seeingAMan) {
+    if (seeingAMan === "man") {
       return "Roof Roof";
     } else {
       return "ZzzZZZzZZz";
