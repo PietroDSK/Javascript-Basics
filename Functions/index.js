@@ -165,9 +165,9 @@ addEventListener("click", function () {
 });
 
 //correct the error below
-var totalCountries = 193;
+
 function needVisit(visitedCountries) {
-  //var totalCountries= 193;
+  var totalCountries= 193;
   return `Still remaining ${totalCountries - visitedCountries} for visit`;
 }
 function haveVisited(visitedCountries) {
