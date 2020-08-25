@@ -6,9 +6,12 @@
 
 # Before you code, some beautiful tips
 
-##### 1. You can use the [firacode font](https://github.com/tonsky/FiraCode) to make your code more beatiful.
+##### 1. You can use the [firacode font](https://github.com/tonsky/FiraCode) to make your code more beatiful.:boom: :fire:
 
 ##### 2. You can use the Dracula Theme of VSCode too.
+
+![Image of VsCode]
+(https://prnt.sc/u5uhp7)
 
 # What is each folder?
 
