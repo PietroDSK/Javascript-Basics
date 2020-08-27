@@ -27,3 +27,7 @@
 ##### 5. Functions
 
 ##### 6. Objects
+
+##### 7. Assignment And Ternary
+
+##### 8. Scope
